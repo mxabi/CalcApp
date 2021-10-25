@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="calculate_your">Calculate Your</string>
+    <string name="age">AGE</string>
+    <string name="in_minutes">In Minutes</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_10">10</string>
+</resources>
